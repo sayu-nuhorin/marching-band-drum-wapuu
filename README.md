@@ -1,2 +1,9 @@
-# marching-band-drum-wapuu
-鼓笛隊わぷー ドラム
+# 鼓笛隊わぷー(ドラム) / Marching-Band-Wapuu(drum)
+
+[WordCamp Tokyo 2023](https://tokyo.wordcamp.org/2023/)  の鼓笛隊わぷー(ドラム)のSVGファイルです。
+
+![WordCamp Tokyo 2023 Wapuu](drum.png)
+
+ライセンスは WordPress ソフトウェアと同じく GPL バージョン 2 またはそれ以降の互換ライセンスとなり、プラグインやテーマ内での使用も可能です。
+
+ただし、著作権はキャラクター作成者のカネウチカズコさんが保有します。
